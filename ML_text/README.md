@@ -14,4 +14,5 @@
 ## Основны инструменты
 ---
 `pandas` `catboost` `seaborn` `matplotlib` `sklearn` `nltk` `re` `wordcloud` `PIL *(для картинок)*` `pandarallel`
-
+---
+Проект тут [Определение токсичных коментариев пользователей](ml_text.ipynb) 
