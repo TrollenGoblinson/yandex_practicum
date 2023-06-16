@@ -19,4 +19,5 @@
 ## Основные инструменты
 ---
 `pandas` `numpy` `seaborn` `matplotlib` `sklearn` `pandas_profiling`
-
+---
+(Проект тут)[Telecom.ipynb]
