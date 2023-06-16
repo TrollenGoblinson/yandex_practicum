@@ -20,4 +20,4 @@
 ---
 `pandas` `numpy` `seaborn` `matplotlib` `sklearn` `pandas_profiling`
 ---
-(Проект тут)[Telecom.ipynb]
+Проект тут [Отток клиентов оператора связи](Telecom.ipynb) 
